@@ -5,8 +5,8 @@ import 'dart:io';
 class CloudService {
   late webdav.Client client;
   final url = 'https://dav.jianguoyun.com/dav/';
-  final user = '3325008058@qq.com';
-  final pwd = 'arxfdd6yrat7tk8h';
+  final user = '******';
+  final pwd = '******';
   final dirPath = '/MyMusics';
   String cachePath = "assets/musics/cache";
 
